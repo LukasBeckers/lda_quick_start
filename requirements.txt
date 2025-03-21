@@ -1,0 +1,10 @@
+# Python version 3.12.6
+PyPDF2==3.0.1
+python-docx==1.1.2
+ipykernel==6.29.5
+notebook==7.3.3
+nltk==3.9.1
+gensim==4.3.3
+matplotlib==3.10.1
+tomotopy==0.13.0
+wordcloud==1.9.4
